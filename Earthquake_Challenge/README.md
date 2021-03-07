@@ -7,7 +7,7 @@ In this challenge, the student created an interactive map to vizualize earthquak
 ## Deliverables
 An interactive map was created with the layers below:
 
-### Data layer: you can apply only one or a combination of all layers below
+### Data layer: you can select only one or a combination of all three layers below
 * Earthquake data from the last 7 days
 ![ScreenShot](https://github.com/liviamiyabara/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/earthquakes_layer.png)
 
